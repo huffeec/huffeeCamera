@@ -27,7 +27,7 @@
      id="namedview4393"
      showgrid="false"
      inkscape:zoom="0.99344095"
-     inkscape:cx="704.72687"
+     inkscape:cx="728.08384"
      inkscape:cy="891.92708"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -80,7 +80,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
         <dc:creator>
           <cc:Agent>
             <dc:title>Chris Huffee</dc:title>
@@ -115,7 +115,7 @@
      inkscape:connector-curvature="0"
      id="path3404"
      d="m 486.62402,15.310682 15.2138,0 0.117,11.34226 10.782,-0.19707 0.1393,26.53692 -11.1628,0 -0.1393,90.368928 11.1628,0 0,26.01663 -11.1628,0 0.1393,90.79087 10.9624,0 -0.078,25.95558 -11.0775,-0.28264 0.1387,8.46843 -15.3744,0.13811 z"
-     style="fill:none;stroke:#ff0000;stroke-width:0.35433071;stroke-miterlimit:4.04008102;stroke-dasharray:none" />
+     style="fill:none;stroke:#ff0000;stroke-width:0.35433072;stroke-miterlimit:4.04008102;stroke-dasharray:none" />
   <path
      inkscape:connector-curvature="0"
      id="path3404-2-5"
